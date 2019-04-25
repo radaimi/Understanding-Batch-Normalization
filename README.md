@@ -1,1 +1,1 @@
-#Understanding Batch Normalization 
+# Understanding Batch Normalization 
